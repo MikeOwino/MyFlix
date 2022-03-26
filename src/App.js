@@ -9,12 +9,12 @@ export default function App() {
         className="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1648315616/wallhaven-new7ek_yehasb.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1648331480/wallhaven-w8rp7q_fouihk.jpg"
         data-setup
         loop
       >
         <source
-          src="https://nw3.seedr.cc/ff_get/1135568439/Death%20on%20the%20Nile.2022.1080p.BDRip.X264.AC3-EVO.mkv?st=McPhZP7VQDK-QE2XGsDPcA&e=1648403226"
+          src="https://nw10.seedr.cc/ff_get/1135675774/The.Boss.Baby.Family.Business.2021.1080p.WEBRip.x264-RARBG.mp4?st=TGAYhrWHyeF3u71DPMYbFA&e=1648417734"
           type="video/mp4"
         />
       </video>
