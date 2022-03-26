@@ -10,12 +10,12 @@ export default function App() {
         className="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/c_scale,w_1280/v1647843623/wallhaven-83g6zy_i52wko.png"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1648315616/wallhaven-new7ek_yehasb.jpg"
         data-setup
         loop
       >
         <source
-          src="https://nl26.seedr.cc/ff_get/1135405814/The.Blacklist.S09E13.720p.HDTV.x264-SYNCOPY.mkv?st=bmzCzzkMvGWC8HMnv-M7hw&e=1648380057"
+          src="https://nw3.seedr.cc/ff_get/1135568439/Death%20on%20the%20Nile.2022.1080p.BDRip.X264.AC3-EVO.mkv?st=McPhZP7VQDK-QE2XGsDPcA&e=1648403226"
           type="video/mp4"
         />
       </video>
