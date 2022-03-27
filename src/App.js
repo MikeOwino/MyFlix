@@ -9,12 +9,12 @@ export default function App() {
         className="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1648331480/wallhaven-w8rp7q_fouihk.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1648400395/wallhaven-4v32r5_vtploh.jpg"
         data-setup
         loop
       >
         <source
-          src="https://nw10.seedr.cc/ff_get/1135675774/The.Boss.Baby.Family.Business.2021.1080p.WEBRip.x264-RARBG.mp4?st=TGAYhrWHyeF3u71DPMYbFA&e=1648417734"
+          src="https://nw11.seedr.cc/ff_get/1136167690/Killing.Eve.S04E06.WEBRip.x264-ION10.mp4?st=eTGd5Na_VqBr12tVKYGqOg&e=1648487022"
           type="video/mp4"
         />
       </video>
