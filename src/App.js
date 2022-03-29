@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nl25.seedr.cc/ff_get/1136461224/the.simpsons.s33e16.1080p.web.h264-cakes.mkv?st=XRhGAHvMbz07jNRXhwrtQQ&e=1648538704"
+          src="https://nl26.seedr.cc/ff_get/1137038774/The.Endgame.S01E06.WEB.x264-TORRENTGALAXY.mkv?st=HmegdmGtxqWP7hufnoNnCw&e=1648623787"
           type="video/mp4"
         />
       </video>
