@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nl26.seedr.cc/ff_get/1137038774/The.Endgame.S01E06.WEB.x264-TORRENTGALAXY.mkv?st=HmegdmGtxqWP7hufnoNnCw&e=1648623787"
+          src="https://nw6.seedr.cc/ff_get/1137599940/Moon.Knight.S01E01.The.Goldfish.Problem.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv?st=bEqaiejPbR37bjLhGk_WZQ&e=1648716136"
           type="video/mp4"
         />
       </video>
