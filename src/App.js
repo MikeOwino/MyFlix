@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nw6.seedr.cc/ff_get/1137599940/Moon.Knight.S01E01.The.Goldfish.Problem.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mkv?st=bEqaiejPbR37bjLhGk_WZQ&e=1648716136"
+          src="https://nw2.seedr.cc/ff_get/1137206867/Moonfall.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv?st=d32dVQ4DknfbjB27Kq6A_A&e=1648716224"
           type="video/mp4"
         />
       </video>
