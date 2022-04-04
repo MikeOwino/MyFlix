@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nw2.seedr.cc/ff_get/1137206867/Moonfall.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv?st=d32dVQ4DknfbjB27Kq6A_A&e=1648716224"
+          src="https://nl35.seedr.cc/ff_get/1140221661/Curious.George.Cape.Ahoy.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv?st=V-DAne8Wjv1TuIXQwiLyxQ&e=1649139196"
           type="video/mp4"
         />
       </video>
