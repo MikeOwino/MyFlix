@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nw3.seedr.cc/ff_get/1151054833/Sing.2.2021.WEBRip.x264-ION10.mp4?st=VATJIamFpROY5T8uassbjQ&e=1650730075"
+          src="https://nl20.seedr.cc/ff_get/1151060001/Sing.2.2021.1080p.WEBRip.x265-RARBG.mp4?st=fmYQSer3TR48BdkI6eWkYA&e=1650730356"
           type="video/mp4"
         />
       </video>
