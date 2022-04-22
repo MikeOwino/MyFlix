@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nl33.seedr.cc/ff_get/1150728698/Ambulance.2022.2022.720p.WEBRip.900MB.x264-GalaxyRG.mkv?st=AQohEJWVr1sOWsyTHKBaXg&e=1650729674"
+          src="https://nw3.seedr.cc/ff_get/1151054833/Sing.2.2021.WEBRip.x264-ION10.mp4?st=VATJIamFpROY5T8uassbjQ&e=1650730075"
           type="video/mp4"
         />
       </video>
