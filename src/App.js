@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nl35.seedr.cc/ff_get/1140221661/Curious.George.Cape.Ahoy.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv?st=V-DAne8Wjv1TuIXQwiLyxQ&e=1649139196"
+          src="https://nl33.seedr.cc/ff_get/1150728698/Ambulance.2022.2022.720p.WEBRip.900MB.x264-GalaxyRG.mkv?st=AQohEJWVr1sOWsyTHKBaXg&e=1650729674"
           type="video/mp4"
         />
       </video>
