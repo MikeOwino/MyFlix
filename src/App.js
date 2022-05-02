@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nl20.seedr.cc/ff_get/1156830483/The.Bad.Guys.2022.1080p.WEBRip.DD5.1.X.264-EVO.mkv?st=hIlyidquHs_7MYA_Mm_K9w&e=1651568779"
+          src="https://nw15.seedr.cc/ff_get/1156831069/The.Bad.Guys.2022.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv?st=FFGsg9ybafhB9jY2WKX-hQ&e=1651568903"
           type="video/mp4"
         />
       </video>
