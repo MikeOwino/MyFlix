@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://nw9.seedr.cc/ff_get/1156817934/the.simpsons.s33e19.720p.web.h264-cakes.mkv?st=cR9y9Eofnr3ban7pbEox8w&e=1651568447"
+          src="https://nl19.seedr.cc/ff_get/1156829895/The.Bad.Guys.2022.1080p.WEBRip.x264.AC3-EVO.mkv?st=7y-Mps44sSw0vhaXEo1UHg&e=1651568608"
           type="video/mp4"
         />
       </video>
