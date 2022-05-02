@@ -9,12 +9,12 @@ export default function App() {
         className="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1650643747/images/SING-2_yywdkw.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1651481667/images/the-bad-guys-share-image-v2_bgant8.jpg"
         data-setup
         loop
       >
         <source
-          src="https://nw9.seedr.cc/ff_get/1151072069/Sing.2.2021.1080p.WEBRip.x264-RARBG.mp4?st=EkMM81EqwVEyIyFFBSgMFw&e=1650731503"
+          src="https://nw9.seedr.cc/ff_get/1156817934/the.simpsons.s33e19.720p.web.h264-cakes.mkv?st=cR9y9Eofnr3ban7pbEox8w&e=1651568447"
           type="video/mp4"
         />
       </video>
