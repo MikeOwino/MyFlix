@@ -9,7 +9,7 @@ export default function App() {
         className="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1651481667/images/the-bad-guys-share-image-v2_bgant8.jpg"
+        poster="https://cdn.mos.cms.futurecdn.net/FxbX2q3w7YEJhabFbFoMyb.jpg"
         data-setup
         loop
       >
