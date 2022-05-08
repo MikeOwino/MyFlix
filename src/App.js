@@ -9,12 +9,12 @@ export default function App() {
         className="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1651939792/p06dwmg7_vdxsyd.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1652009088/images/maxresdefault_kb7edh.jpg"
         data-setup
         loop
       >
         <source
-          src="https://de15.seedr.cc/ff_get/1160158678/Wreck.it.Ralph.2012.1080p.BrRip.x264.BOKUTOX.YIFY.mp4?st=lCUUeytmz_lzx7ZWJ9HphA&e=1652026271"
+          src="https://de19.seedr.cc/ff_get/1160689852/Frozen.II.2019.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4?st=rdUt-yAJa601zMvzxFeIGQ&e=1652095512"
           type="video/mp4"
         />
       </video>
