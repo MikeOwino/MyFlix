@@ -9,12 +9,12 @@ export default function App() {
         className="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1652009088/images/maxresdefault_kb7edh.jpg"
+        poster="https://i.ytimg.com/vi/SIJnzoUvR_k/maxresdefault.jpg"
         data-setup
         loop
       >
         <source
-          src="https://de19.seedr.cc/ff_get/1160689852/Frozen.II.2019.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4?st=rdUt-yAJa601zMvzxFeIGQ&e=1652095512"
+          src="https://nl38.seedr.cc/ff_get/1164296744/Tom%20And%20Jerry%20Willy%20Wonka%20And%20The%20Chocolate%20Factory%202017%20Movies%20720p%20HDRip%20XviD%20AAC%20New%20Source%20rDX.mkv?st=2CrIhnXS9T6Q59EoZo8Ucg&e=1652631101"
           type="video/mp4"
         />
       </video>
