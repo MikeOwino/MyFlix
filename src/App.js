@@ -9,7 +9,7 @@ export default function App() {
         className="video-js"
         controls
         preload="auto"
-        poster="https://i.ytimg.com/vi/SIJnzoUvR_k/maxresdefault.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653066760/sonic-05_kur0pr.jpg"
         data-setup
         loop
       >
