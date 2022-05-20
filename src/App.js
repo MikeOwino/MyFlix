@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://de16.seedr.cc/ff_get/1168009819/Sonic.The.Hedgehog.2020.1080p.WEBRip.x264.AAC-[YTS.MX].mp4?st=iFc5nRyvCBPIWjwlikfD6g&e=1653153056"
+          src="https://nw7.seedr.cc/ff_get/1168023601/Sonic.the.Hedgehog.2.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG.mkv?st=lNU3jErxxRM1cQEgIr5wSA&e=1653153963"
           type="video/mp4"
         />
       </video>
