@@ -14,7 +14,7 @@ export default function App() {
         loop
       >
         <source
-          src="https://rs1.seedr.cc/ff_get/1165215399/the.simpsons.s33e21.1080p.web.h264-cakes.mkv?st=k27NaGV8MW6ho7aGKAvgsw&e=1652770158"
+          src="https://de16.seedr.cc/ff_get/1168009819/Sonic.The.Hedgehog.2020.1080p.WEBRip.x264.AAC-[YTS.MX].mp4?st=iFc5nRyvCBPIWjwlikfD6g&e=1653153056"
           type="video/mp4"
         />
       </video>
