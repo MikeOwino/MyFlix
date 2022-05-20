@@ -9,7 +9,7 @@ export default function App() {
         className="video-js"
         controls
         preload="auto"
-        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653066760/sonic-05_kur0pr.jpg"
+        poster="https://res.cloudinary.com/weknow-creators/image/upload/v1653067080/sonic-the-hedgehog-2-posters_dj9aag.jpg"
         data-setup
         loop
       >
